@@ -1,5 +1,7 @@
 ### Olá, bem vindo ao meu Github
 
+## Sou o Rodrigo, desenvolvedor Front-End em transição de carreira
+
  <div>
   <a href="https://github.com/rodrigocdfidencio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocdfidencio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
