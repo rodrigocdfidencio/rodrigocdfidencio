@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu Github
 
-## Sou o Rodrigo, desenvolvedor Front-End em transição de carreira
+## Sou o Rodrigo, desenvolvedor Front-End com foco em Javascript e REACT
 
  <div>
   <a href="https://github.com/rodrigocdfidencio">
