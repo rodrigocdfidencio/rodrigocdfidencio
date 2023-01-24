@@ -1,6 +1,8 @@
 ### Olá, bem vindo ao meu Github
 
-## Sou o Rodrigo, desenvolvedor Front-End com foco em Javascript e REACT
+## Sou o Rodrigo, desenvolvedor FullStack com foco em JAVA, JavaScript, React, Node
+
+## Atualmente trabalhando fulltime com desenvolvimento de Chatbots na Serasa Experian.
 
  <div>
   <a href="https://github.com/rodrigocdfidencio">
